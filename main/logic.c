@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 #include "types.h"
+#include "logic.h"
 
 const char *colors[] = {"Red", "Green", "Yellow", "Blue"};
 
