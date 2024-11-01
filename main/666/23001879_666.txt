@@ -1,0 +1,4452 @@
+The red player has 04 pieces named R1,R2,R3,R4
+The green player has 04 pieces named G1,G2,G3,G4
+The yellow player has 04 pieces named Y1,Y2,Y3,Y4
+The blue player has 04 pieces named B1,B2,B3,B4
+
+Red rolls 6
+Green rolls 3
+Yellow rolls 1
+Blue rolls 1
+
+Red player has the highest roll and will begin the game 
+
+
+!!!! Round 1 Starts !!!!
+Color Red rolled 4 . 
+Color Green rolled 4 . 
+Color Yellow rolled 4 . 
+Color Blue rolled 1 . 
+
+
+Round 1 Details : 
+Color Red player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Green player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 2 Starts !!!!
+Color Red rolled 6 . 
+Color Red moves piece R1 to the starting point. 
+Color Red now has 1/4 pieces on the board and 3/4 pieces on the base.
+Color Red rolled 2 . 
+Color Red Player moves piece R1 from location 1 to 51 by 2 units in counter-clockwise direction.
+Color Green rolled 4 . 
+Color Yellow rolled 2 . 
+Color Blue rolled 4 . 
+
+
+Round 2 Details : 
+Color Red player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 51
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Green player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 3 Starts !!!!
+A mystery cell has spwaned in location 45 and will be at this location for the next four rounds 
+Color Red rolled 4 . 
+Color Red Player moves piece R1 from location 51 to 47 by 4 units in counter-clockwise direction.
+Color Green rolled 5 . 
+Color Yellow rolled 6 . 
+Color Yellow moves piece Y1 to the starting point. 
+Color Yellow now has 1/4 pieces on the board and 3/4 pieces on the base.
+Color Yellow rolled 5 . 
+blue piece 0 teleported to PitaKotuwa 
+The color blue piece 1, which was moving clockwise, has changed to moving counterclockwise 
+Color Blue rolled 3 . 
+
+
+Round 3 Details : 
+Color Red player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 47
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Green player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 27
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 4 Starts !!!!
+Color Red rolled 2 . 
+red piece 0 teleported to PitaKotuwa 
+The color red piece 1 is moving in a counterclockwise direction.Teleporting from Pita-KotuwaColor Green rolled 1 . 
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y1 from location 27 to 28 by 1 units in clockwise direction.
+Color Blue rolled 4 . 
+
+
+Round 4 Details : 
+Color Red player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 2
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Green player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 28
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 5 Starts !!!!
+Color Red rolled 6 . 
+Color Red moves piece R2 to the starting point. 
+Color Red now has 2/4 pieces on the board and 2/4 pieces on the base.
+Color Red rolled 5 . 
+Color Red Player moves piece R1 from location 2 to 49 by 5 units in counter-clockwise direction.
+Color Green rolled 2 . 
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y1 from location 28 to 29 by 1 units in clockwise direction.
+Color Blue rolled 1 . 
+
+
+Round 5 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 49
+Piece 2: 1
+Piece 3: Base
+Piece 4: Base
+
+Color Green player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 29
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 6 Starts !!!!
+Color Red rolled 2 . 
+Color Red Player moves piece R1 from location 49 to 47 by 2 units in counter-clockwise direction.
+Color Green rolled 1 . 
+Color Yellow rolled 3 . 
+Color Yellow Player moves piece Y1 from location 29 to 32 by 3 units in clockwise direction.
+Color Blue rolled 5 . 
+blue piece 1 teleported to Kotuwa 
+Color blue piece 1 attends briefing and cannot move for four Rounds. 
+
+
+Round 6 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 47
+Piece 2: 1
+Piece 3: Base
+Piece 4: Base
+
+Color Green player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 32
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 7 Starts !!!!
+A mystery cell has spwaned in location 21 and will be at this location for the next four rounds 
+Color Red rolled 2 . 
+Color Red Player moves piece R1 from location 47 to 45 by 2 units in counter-clockwise direction.
+Color Green rolled 5 . 
+Color Yellow rolled 2 . 
+Color Yellow Player moves piece Y1 from location 32 to 34 by 2 units in clockwise direction.
+Color Blue rolled 3 . 
+
+
+Round 7 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 45
+Piece 2: 1
+Piece 3: Base
+Piece 4: Base
+
+Color Green player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 34
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 8 Starts !!!!
+Color Red rolled 6 . 
+Color Red moves piece R3 to the starting point. 
+Color Red now has 3/4 pieces on the board and 1/4 pieces on the base.
+Color Red rolled 1 . 
+Color Red Player moves piece R1 from location 45 to 44 by 1 units in counter-clockwise direction.
+Color Green rolled 1 . 
+Color Yellow rolled 2 . 
+Color Yellow Player moves piece Y1 from location 34 to 36 by 2 units in clockwise direction.
+Color Blue rolled 5 . 
+
+
+Round 8 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 44
+Piece 2: 1
+Piece 3: 1
+Piece 4: Base
+
+Color Green player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 36
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 0/4 pieces on the board and 4/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 9 Starts !!!!
+Color Red rolled 4 . 
+Color Red Player moves piece R1 from location 44 to 40 by 4 units in counter-clockwise direction.
+Color Green rolled 6 . 
+Color Green moves piece G1 to the starting point. 
+Color Green now has 1/4 pieces on the board and 3/4 pieces on the base.
+Color Green rolled 6 . 
+Color Green moves piece G2 to the starting point. 
+Color Green now has 2/4 pieces on the board and 2/4 pieces on the base.
+Color Green rolled 1 . 
+Color Green Player moves piece G1 from location 14 to 15 by 1 units in clockwise direction.
+Color Yellow rolled 4 . 
+Y1 lands on square 40 , captures color R1 , and returns it to the base.
+Color Blue rolled 6 . 
+Color Blue moves piece Y1 to the starting point. 
+Color Yellow now has 1/4 pieces on the board and 3/4 pieces on the base.
+Color Blue rolled 3 . 
+Color blue Player moves piece Y1 from location 21 to 18 by 3 units in counter-clockwise direction.
+
+
+Round 9 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 1
+Piece 3: 1
+Piece 4: Base
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 15
+Piece 2: 14
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 40
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 18
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 10 Starts !!!!
+Color Red rolled 1 . 
+Color Red Player moves piece R2 from location 1 to 52 by 1 units in counter-clockwise direction.
+Color Green rolled 1 . 
+Color Green Player moves piece G1 from location 15 to 16 by 1 units in clockwise direction.
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y1 from location 40 to 44 by 4 units in clockwise direction.
+Color Blue rolled 1 . 
+Color blue Player moves piece Y1 from location 18 to 17 by 1 units in counter-clockwise direction.
+
+
+Round 10 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 52
+Piece 3: 1
+Piece 4: Base
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 16
+Piece 2: 14
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 44
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 17
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 11 Starts !!!!
+A mystery cell has spwaned in location 43 and will be at this location for the next four rounds 
+Color Red rolled 3 . 
+Color Red Player moves piece R2 from location 52 to 49 by 3 units in counter-clockwise direction.
+Color Green rolled 6 . 
+Color Green moves piece G3 to the starting point. 
+Color Green now has 3/4 pieces on the board and 1/4 pieces on the base.
+Color Green rolled 5 . 
+Color Green Player moves piece G1 from location 16 to 21 by 5 units in clockwise direction.
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y1 from location 44 to 45 by 1 units in clockwise direction.
+Color Blue rolled 4 . 
+Color blue Player moves piece Y1 from location 17 to 13 by 4 units in counter-clockwise direction.
+
+
+Round 11 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 49
+Piece 3: 1
+Piece 4: Base
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 21
+Piece 2: 14
+Piece 3: 14
+Piece 4: Base
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 45
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 13
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 12 Starts !!!!
+Color Red rolled 6 . 
+Color Red moves piece R1 to the starting point. 
+Color Red now has 3/4 pieces on the board and 1/4 pieces on the base.
+Color Red rolled 3 . 
+Color Red Player moves piece R1 from location 1 to 50 by 3 units in counter-clockwise direction.
+Color Green rolled 2 . 
+Color Green Player moves piece G1 from location 21 to 23 by 2 units in clockwise direction.
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y1 from location 45 to 46 by 1 units in clockwise direction.
+Color Blue rolled 6 . 
+Color Blue moves piece Y2 to the starting point. 
+Color Yellow now has 2/4 pieces on the board and 2/4 pieces on the base.
+Color Blue rolled 2 . 
+Color blue Player moves piece Y1 from location 13 to 11 by 2 units in counter-clockwise direction.
+
+
+Round 12 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 50
+Piece 2: 49
+Piece 3: 1
+Piece 4: Base
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 23
+Piece 2: 14
+Piece 3: 14
+Piece 4: Base
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 46
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 11
+Piece 2: 2
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 13 Starts !!!!
+Color Red rolled 1 . 
+R3 lands on square 2 , captures color B2 , and returns it to the base.Color Green rolled 3 . 
+Color Green Player moves piece G1 from location 23 to 26 by 3 units in clockwise direction.
+Color Yellow rolled 5 . 
+Color Yellow Player moves piece Y1 from location 46 to 51 by 5 units in clockwise direction.
+Color Blue rolled 6 . 
+Color Blue moves piece Y2 to the starting point. 
+Color Yellow now has 2/4 pieces on the board and 2/4 pieces on the base.
+Color Blue rolled 2 . 
+Color blue Player moves piece Y1 from location 11 to 9 by 2 units in counter-clockwise direction.
+
+
+Round 13 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 50
+Piece 2: 49
+Piece 3: 2
+Piece 4: Base
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 26
+Piece 2: 14
+Piece 3: 14
+Piece 4: Base
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 51
+Piece 2: Base
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 9
+Piece 2: 40
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 14 Starts !!!!
+Color Red rolled 5 . 
+Color Red Player moves piece R1 from location 50 to 45 by 5 units in counter-clockwise direction.
+Color Green rolled 1 . 
+Color Green Player moves piece G1 from location 26 to 27 by 1 units in clockwise direction.
+Color Yellow rolled 6 . 
+Color Yellow moves piece Y2 to the starting point. 
+Color Yellow now has 2/4 pieces on the board and 2/4 pieces on the base.
+Color Yellow rolled 3 . 
+blue piece 1 teleported to Kotuwa 
+Color blue piece 1 attends briefing and cannot move for four Rounds. 
+Color Blue rolled 3 . 
+blue piece 2 teleported to PitaKotuwa 
+The color blue piece 3, which was moving clockwise, has changed to moving counterclockwise 
+
+
+Round 14 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 45
+Piece 2: 49
+Piece 3: 2
+Piece 4: Base
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 27
+Piece 2: 14
+Piece 3: 14
+Piece 4: Base
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 51
+Piece 2: 27
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 9
+Piece 2: 2
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 15 Starts !!!!
+A mystery cell has spwaned in location 34 and will be at this location for the next four rounds 
+Color Red rolled 2 . 
+Color Red Player moves piece R1 from location 45 to 43 by 2 units in counter-clockwise direction.
+Color Green rolled 1 . 
+Color Green Player moves piece G1 from location 27 to 28 by 1 units in clockwise direction.
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y1 from location 51 to 3 by 4 units in clockwise direction.
+Color Blue rolled 1 . 
+Y2 lands on square 3 , captures color B1 , and returns it to the base.
+
+
+Round 15 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 43
+Piece 2: 49
+Piece 3: 2
+Piece 4: Base
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 28
+Piece 2: 14
+Piece 3: 14
+Piece 4: Base
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: Base
+Piece 2: 27
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 9
+Piece 2: 3
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 16 Starts !!!!
+Color Red rolled 2 . 
+Color Red Player moves piece R1 from location 43 to 41 by 2 units in counter-clockwise direction.
+Color Green rolled 3 . 
+Color Green Player moves piece G1 from location 28 to 31 by 3 units in clockwise direction.
+Color Yellow rolled 5 . 
+Color Yellow Player moves piece Y2 from location 27 to 32 by 5 units in clockwise direction.
+Color Blue rolled 3 . 
+Color blue Player moves piece Y1 from location 9 to 6 by 3 units in counter-clockwise direction.
+
+
+Round 16 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 41
+Piece 2: 49
+Piece 3: 2
+Piece 4: Base
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 31
+Piece 2: 14
+Piece 3: 14
+Piece 4: Base
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: Base
+Piece 2: 32
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 6
+Piece 2: 3
+Piece 3: Base
+Piece 4: Base
+
+
+
+!!!! Round 17 Starts !!!!
+Color Red rolled 6 . 
+Color Red moves piece R4 to the starting point. 
+Color Red now has 4/4 pieces on the board and 0/4 pieces on the base.
+Color Red rolled 5 . 
+Color Red Player moves piece R1 from location 41 to 36 by 5 units in counter-clockwise direction.
+Color Green rolled 6 . 
+Color Green moves piece G4 to the starting point. 
+Color Green now has 4/4 pieces on the board and 0/4 pieces on the base.
+Color Green rolled 4 . 
+Color Green Player moves piece G1 from location 31 to 35 by 4 units in clockwise direction.
+Color Yellow rolled 4 . 
+Y2 lands on square 36 , captures color R1 , and returns it to the base.
+Color Blue rolled 6 . 
+Color Blue moves piece Y3 to the starting point. 
+Color Yellow now has 3/4 pieces on the board and 1/4 pieces on the base.
+Color Blue rolled 4 . 
+Y1 lands on square 2 , captures color R3 , and returns it to the base.
+
+
+Round 17 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 49
+Piece 3: Base
+Piece 4: 1
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 35
+Piece 2: 14
+Piece 3: 14
+Piece 4: 14
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: Base
+Piece 2: 36
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 2
+Piece 2: 3
+Piece 3: 21
+Piece 4: Base
+
+
+
+!!!! Round 18 Starts !!!!
+Color Red rolled 4 . 
+Color Red Player moves piece R2 from location 49 to 45 by 4 units in counter-clockwise direction.
+Color Green rolled 2 . 
+Color Green Player moves piece G1 from location 35 to 37 by 2 units in clockwise direction.
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y2 from location 36 to 40 by 4 units in clockwise direction.
+Color Blue rolled 5 . 
+Color blue Player moves piece Y1 from location 2 to 49 by 5 units in counter-clockwise direction.
+
+
+Round 18 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 45
+Piece 3: Base
+Piece 4: 1
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 37
+Piece 2: 14
+Piece 3: 14
+Piece 4: 14
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: Base
+Piece 2: 40
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 49
+Piece 2: 3
+Piece 3: 21
+Piece 4: Base
+
+
+
+!!!! Round 19 Starts !!!!
+A mystery cell has spwaned in location 36 and will be at this location for the next four rounds 
+Color Red rolled 4 . 
+R4 lands on square 49 , captures color B1 , and returns it to the base.Color Green rolled 2 . 
+Color Green Player moves piece G1 from location 37 to 39 by 2 units in clockwise direction.
+Color Yellow rolled 6 . 
+Color Yellow moves piece Y1 to the starting point. 
+Color Yellow now has 2/4 pieces on the board and 2/4 pieces on the base.
+Color Yellow rolled 2 . 
+Color Yellow Player moves piece Y1 from location 27 to 25 by 2 units in anti-clockwise direction.
+Color Blue rolled 3 . 
+Color blue Player moves piece Y2 from location 3 to 6 by 3 units in clockwise direction.
+
+
+Round 19 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 45
+Piece 3: Base
+Piece 4: 49
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 39
+Piece 2: 14
+Piece 3: 14
+Piece 4: 14
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 25
+Piece 2: 40
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: 6
+Piece 3: 21
+Piece 4: Base
+
+
+
+!!!! Round 20 Starts !!!!
+Color Red rolled 6 . 
+R2 lands on square 39 , captures color G1 , and returns it to the base.Color Red rolled 5 . 
+Color Red Player moves piece R2 from location 39 to 34 by 5 units in counter-clockwise direction.
+Color Green rolled 2 . 
+Color Green Player moves piece G2 from location 14 to 12 by 2 units in anti-clockwise direction.
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y2 from location 40 to 41 by 1 units in clockwise direction.
+Color Blue rolled 6 . 
+Color Blue moves piece Y1 to the starting point. 
+Color Yellow now has 3/4 pieces on the board and 1/4 pieces on the base.
+Color Blue rolled 2 . 
+Color blue Player moves piece Y1 from location 40 to 38 by 2 units in counter-clockwise direction.
+
+
+Round 20 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 34
+Piece 3: Base
+Piece 4: 49
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: 12
+Piece 3: 14
+Piece 4: 14
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 25
+Piece 2: 41
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 6
+Piece 3: 21
+Piece 4: Base
+
+
+
+!!!! Round 21 Starts !!!!
+Color Red rolled 2 . 
+Color Red Player moves piece R2 from location 34 to 32 by 2 units in counter-clockwise direction.
+Color Green rolled 4 . 
+Color Green Player moves piece G2 to 4 homestraight by 4. 
+Color Green Player moves piece G3 from location 14 to 18 by 4 units in clockwise direction.
+Color Yellow rolled 2 . 
+Color Yellow Player moves piece Y2 from location 41 to 43 by 2 units in clockwise direction.
+Color Blue rolled 6 . 
+Color Blue moves piece Y4 to the starting point. 
+Color Yellow now has 4/4 pieces on the board and 0/4 pieces on the base.
+Color Blue rolled 6 . 
+Color blue Player moves piece Y4 from location 40 to 34 by 6 units in counter-clockwise direction.
+Color Blue rolled 3 . 
+Y3 lands on square 18 , captures color G3 , and returns it to the base.
+
+
+Round 21 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 32
+Piece 3: Base
+Piece 4: 49
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: 4 (Home Straight)
+Piece 3: Base
+Piece 4: 14
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 25
+Piece 2: 43
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 6
+Piece 3: 18
+Piece 4: 34
+
+
+
+!!!! Round 22 Starts !!!!
+Color Red rolled 4 . 
+Color Red Player moves piece R2 from location 32 to 28 by 4 units in counter-clockwise direction.
+Color Green rolled 2 . 
+Color Green Player moves piece G2 to home successfully! 
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y2 from location 43 to 47 by 4 units in clockwise direction.
+Color Blue rolled 3 . 
+Color blue Player moves piece Y2 from location 6 to 9 by 3 units in clockwise direction.
+
+
+Round 22 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 28
+Piece 3: Base
+Piece 4: 49
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 14
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 25
+Piece 2: 47
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 9
+Piece 3: 18
+Piece 4: 34
+
+
+
+!!!! Round 23 Starts !!!!
+A mystery cell has spwaned in location 31 and will be at this location for the next four rounds 
+Color Red rolled 1 . 
+Color Red Player moves piece R2 from location 28 to 27 by 1 units in counter-clockwise direction.
+Color Green rolled 4 . 
+Color Green Player moves piece G4 from location 14 to 18 by 4 units in clockwise direction.
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y2 from location 47 to 51 by 4 units in clockwise direction.
+Color Blue rolled 4 . 
+Color blue Player moves piece Y2 from location 9 to 13 by 4 units in clockwise direction.
+
+
+Round 23 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 27
+Piece 3: Base
+Piece 4: 49
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 18
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 25
+Piece 2: 51
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 13
+Piece 3: 18
+Piece 4: 34
+
+
+
+!!!! Round 24 Starts !!!!
+Color Red rolled 6 . 
+Color Red moves piece R1 to the starting point. 
+Color Red now has 3/4 pieces on the board and 1/4 pieces on the base.
+Color Red rolled 1 . 
+Color Red Player moves piece R1 from location 1 to 52 by 1 units in counter-clockwise direction.
+Color Green rolled 2 . 
+Color Green Player moves piece G4 from location 18 to 20 by 2 units in clockwise direction.
+Color Yellow rolled 1 . 
+Y2 lands on square 52 , captures color R1 , and returns it to the base.
+Color Blue rolled 5 . 
+Color blue Player moves piece Y2 from location 13 to 18 by 5 units in clockwise direction.
+
+
+Round 24 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 27
+Piece 3: Base
+Piece 4: 49
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 20
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 25
+Piece 2: 52
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 18
+Piece 3: 18
+Piece 4: 34
+
+
+
+!!!! Round 25 Starts !!!!
+Color Red rolled 1 . 
+Color Red Player moves piece R2 from location 27 to 26 by 1 units in counter-clockwise direction.
+Color Green rolled 1 . 
+Color Green Player moves piece G4 from location 20 to 21 by 1 units in clockwise direction.
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y2 from location 52 to 4 by 4 units in clockwise direction.
+Color Blue rolled 5 . 
+Color blue Player moves piece Y2 from location 18 to 23 by 5 units in clockwise direction.
+
+
+Round 25 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 26
+Piece 3: Base
+Piece 4: 49
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 21
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 25
+Piece 2: 4
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 23
+Piece 3: 18
+Piece 4: 34
+
+
+
+!!!! Round 26 Starts !!!!
+Color Red rolled 2 . 
+Color Red Player moves piece R2 from location 26 to 24 by 2 units in counter-clockwise direction.
+Color Green rolled 2 . 
+Color Green Player moves piece G4 from location 21 to 23 by 2 units in clockwise direction.
+Color Yellow rolled 2 . 
+Color Yellow Player moves piece Y2 from location 4 to 6 by 2 units in clockwise direction.
+Color Blue rolled 1 . 
+Y2 lands on square 24 , captures color R2 , and returns it to the base.
+
+
+Round 26 Details : 
+Color Red player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: 49
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 23
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 25
+Piece 2: 6
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 24
+Piece 3: 18
+Piece 4: 34
+
+
+
+!!!! Round 27 Starts !!!!
+A mystery cell has spwaned in location 47 and will be at this location for the next four rounds 
+Color Red rolled 4 . 
+Color Red Player moves piece R4 from location 49 to 45 by 4 units in counter-clockwise direction.
+Color Green rolled 5 . 
+Color Green Player moves piece G4 from location 23 to 28 by 5 units in clockwise direction.
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y2 from location 6 to 10 by 4 units in clockwise direction.
+Color Blue rolled 1 . 
+Y2 lands on square 25 , captures color B1 , and returns it to the base.
+
+
+Round 27 Details : 
+Color Red player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: 45
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 28
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: Base
+Piece 2: 10
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 25
+Piece 3: 18
+Piece 4: 34
+
+
+
+!!!! Round 28 Starts !!!!
+Color Red rolled 2 . 
+Color Red Player moves piece R4 from location 45 to 43 by 2 units in counter-clockwise direction.
+Color Green rolled 2 . 
+Color Green Player moves piece G4 from location 28 to 30 by 2 units in clockwise direction.
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y2 from location 10 to 11 by 1 units in clockwise direction.
+Color Blue rolled 3 . 
+Color blue Player moves piece Y2 from location 25 to 28 by 3 units in clockwise direction.
+
+
+Round 28 Details : 
+Color Red player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: 43
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 30
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: Base
+Piece 2: 11
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 28
+Piece 3: 18
+Piece 4: 34
+
+
+
+!!!! Round 29 Starts !!!!
+Color Red rolled 3 . 
+Color Red Player moves piece R4 from location 43 to 40 by 3 units in counter-clockwise direction.
+Color Green rolled 4 . 
+Color Green Player moves piece G4 from location 30 to 34 by 4 units in clockwise direction.
+Color Yellow rolled 3 . 
+Color Yellow Player moves piece Y2 from location 11 to 14 by 3 units in clockwise direction.
+Color Blue rolled 5 . 
+Color blue Player moves piece Y2 from location 28 to 33 by 5 units in clockwise direction.
+
+
+Round 29 Details : 
+Color Red player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: 40
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 34
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: Base
+Piece 2: 14
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 33
+Piece 3: 18
+Piece 4: 34
+
+
+
+!!!! Round 30 Starts !!!!
+Color Red rolled 4 . 
+Color Red Player moves piece R4 from location 40 to 36 by 4 units in counter-clockwise direction.
+Color Green rolled 4 . 
+Color Green Player moves piece G4 from location 34 to 38 by 4 units in clockwise direction.
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y2 from location 14 to 15 by 1 units in clockwise direction.
+Color Blue rolled 1 . 
+Color blue Player moves piece Y2 from location 33 to 34 by 1 units in clockwise direction.
+
+
+Round 30 Details : 
+Color Red player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: 36
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 38
+
+Color Yellow player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: Base
+Piece 2: 15
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 34
+Piece 3: 18
+Piece 4: 34
+
+
+
+!!!! Round 31 Starts !!!!
+A mystery cell has spwaned in location 5 and will be at this location for the next four rounds 
+Color Red rolled 2 . 
+R4 lands on square 34 , captures color B2 , and returns it to the base.Color Green rolled 5 . 
+Color Green Player moves piece G4 from location 38 to 43 by 5 units in clockwise direction.
+Color Yellow rolled 6 . 
+Color Yellow moves piece Y1 to the starting point. 
+Color Yellow now has 2/4 pieces on the board and 2/4 pieces on the base.
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y1 from location 27 to 26 by 1 units in anti-clockwise direction.
+Color Blue rolled 6 . 
+Color Blue moves piece Y2 to the starting point. 
+Color Yellow now has 4/4 pieces on the board and 0/4 pieces on the base.
+Color Blue rolled 3 . 
+Y2 lands on square 43 , captures color G4 , and returns it to the base.
+
+
+Round 31 Details : 
+Color Red player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: 34
+
+Color Green player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: In Home
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 26
+Piece 2: 15
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 43
+Piece 3: 18
+Piece 4: 34
+
+
+
+!!!! Round 32 Starts !!!!
+Color Red rolled 2 . 
+Color Red Player moves piece R4 from location 34 to 32 by 2 units in counter-clockwise direction.
+Color Green rolled 4 . 
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y1 to 3 homestraight by 4. 
+Color Blue rolled 4 . 
+Color blue Player moves piece Y3 from location 18 to 14 by 4 units in counter-clockwise direction.
+
+
+Round 32 Details : 
+Color Red player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: 32
+
+Color Green player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: In Home
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 3 (Home Straight)
+Piece 2: 15
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 43
+Piece 3: 14
+Piece 4: 34
+
+
+
+!!!! Round 33 Starts !!!!
+Color Red rolled 5 . 
+Color Red Player moves piece R4 from location 32 to 27 by 5 units in counter-clockwise direction.
+Color Green rolled 5 . 
+Color Yellow rolled 5 . 
+Color Yellow Player moves piece Y2 from location 15 to 20 by 5 units in clockwise direction.
+Color Blue rolled 1 . 
+Color blue Player moves piece Y3 from location 14 to 13 by 1 units in counter-clockwise direction.
+
+
+Round 33 Details : 
+Color Red player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: 27
+
+Color Green player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: Base
+Piece 2: In Home
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: 3 (Home Straight)
+Piece 2: 20
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 43
+Piece 3: 13
+Piece 4: 34
+
+
+
+!!!! Round 34 Starts !!!!
+Color Red rolled 6 . 
+Color Red moves piece R1 to the starting point. 
+Color Red now has 2/4 pieces on the board and 2/4 pieces on the base.
+Color Red rolled 6 . 
+Color Red moves piece R2 to the starting point. 
+Color Red now has 3/4 pieces on the board and 1/4 pieces on the base.
+Color Red rolled 5 . 
+Color Red Player moves piece R1 from location 1 to 6 by 5 units in clockwise direction.
+Color Green rolled 6 . 
+Color Green moves piece G1 to the starting point. 
+Color Green now has 1/4 pieces on the board and 2/4 pieces on the base.
+Color Green rolled 6 . 
+Color Green moves piece G3 to the starting point. 
+Color Green now has 2/4 pieces on the board and 1/4 pieces on the base.
+Color Green rolled 4 . 
+Color Green Player moves piece G1 from location 14 to 18 by 4 units in clockwise direction.
+Color Yellow rolled 3 . 
+Color Yellow Player moves piece Y1 to home successfully! 
+Color Blue rolled 3 . 
+Color blue Player moves piece Y3 from location 13 to 10 by 3 units in counter-clockwise direction.
+
+
+Round 34 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 6
+Piece 2: 1
+Piece 3: Base
+Piece 4: 27
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 18
+Piece 2: In Home
+Piece 3: 14
+Piece 4: Base
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: 20
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 43
+Piece 3: 10
+Piece 4: 34
+
+
+
+!!!! Round 35 Starts !!!!
+A mystery cell has spwaned in location 4 and will be at this location for the next four rounds 
+Color Red rolled 1 . 
+Color Red Player moves piece R1 from location 6 to 7 by 1 units in clockwise direction.
+Color Green rolled 3 . 
+Color Green Player moves piece G1 from location 18 to 21 by 3 units in clockwise direction.
+Color Yellow rolled 3 . 
+Color Yellow Player moves piece Y2 from location 20 to 23 by 3 units in clockwise direction.
+Color Blue rolled 3 . 
+Y3 lands on square 7 , captures color R1 , and returns it to the base.
+
+
+Round 35 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 1
+Piece 3: Base
+Piece 4: 27
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 21
+Piece 2: In Home
+Piece 3: 14
+Piece 4: Base
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: 23
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 43
+Piece 3: 7
+Piece 4: 34
+
+
+
+!!!! Round 36 Starts !!!!
+Color Red rolled 3 . 
+red piece 1 teleported to Kotuwa 
+Color red piece 1 attends briefing and cannot move for four Rounds. 
+Color Red Player moves piece R4 from location 27 to 24 by 3 units in counter-clockwise direction.
+Color Green rolled 2 . 
+Color Green Player moves piece G1 from location 21 to 23 by 2 units in clockwise direction.
+Color Yellow rolled 2 . 
+Color Yellow Player moves piece Y2 from location 23 to 25 by 2 units in clockwise direction.
+Color Blue rolled 4 . 
+Color blue Player moves piece Y3 from location 7 to 3 by 4 units in counter-clockwise direction.
+
+
+Round 36 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 2
+Piece 3: Base
+Piece 4: 24
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 23
+Piece 2: In Home
+Piece 3: 14
+Piece 4: Base
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: 25
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 43
+Piece 3: 3
+Piece 4: 34
+
+
+
+!!!! Round 37 Starts !!!!
+Color Red rolled 4 . 
+Color Red Player moves piece R2 from location 2 to 6 by 4 units in clockwise direction.
+Color Green rolled 4 . 
+Color Green Player moves piece G1 from location 23 to 27 by 4 units in clockwise direction.
+Color Yellow rolled 2 . 
+Color Yellow Player moves piece Y2 to 2 homestraight by 2. 
+Color Blue rolled 1 . 
+Color blue piece 2 feels Energized , and movement speed doubles 
+blue piece 2 teleported to Bhawana 
+
+
+Round 37 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 6
+Piece 3: Base
+Piece 4: 24
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 27
+Piece 2: In Home
+Piece 3: 14
+Piece 4: Base
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: 2 (Home Straight)
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 43
+Piece 3: 36
+Piece 4: 34
+
+
+
+!!!! Round 38 Starts !!!!
+Color Red rolled 5 . 
+Color Red Player moves piece R2 from location 6 to 11 by 5 units in clockwise direction.
+Color Green rolled 5 . 
+Color Green Player moves piece G1 from location 27 to 32 by 5 units in clockwise direction.
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y2 to home successfully! 
+Color Blue rolled 5 . 
+Color blue Player moves piece Y2 from location 43 to 48 by 5 units in clockwise direction.
+
+
+Round 38 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 11
+Piece 3: Base
+Piece 4: 24
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 32
+Piece 2: In Home
+Piece 3: 14
+Piece 4: Base
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 48
+Piece 3: 36
+Piece 4: 34
+
+
+
+!!!! Round 39 Starts !!!!
+A mystery cell has spwaned in location 21 and will be at this location for the next four rounds 
+Color Red rolled 1 . 
+Color Red Player moves piece R2 from location 11 to 12 by 1 units in clockwise direction.
+Color Green rolled 3 . 
+Color Green Player moves piece G1 from location 32 to 35 by 3 units in clockwise direction.
+Color Yellow rolled 3 . 
+Color Blue rolled 6 . 
+Color blue Player moves piece Y2 from location 48 to 2 by 6 units in clockwise direction.
+Color Blue rolled 4 . 
+Color blue Player moves piece Y2 from location 2 to 6 by 4 units in clockwise direction.
+
+
+Round 39 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 12
+Piece 3: Base
+Piece 4: 24
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 35
+Piece 2: In Home
+Piece 3: 14
+Piece 4: Base
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 6
+Piece 3: 36
+Piece 4: 34
+
+
+
+!!!! Round 40 Starts !!!!
+Color Red rolled 2 . 
+R2 lands on square 14 , captures color G3 , and returns it to the base.Color Green rolled 5 . 
+Color Green Player moves piece G1 from location 35 to 40 by 5 units in clockwise direction.
+Color Yellow rolled 5 . 
+Color Blue rolled 2 . 
+Color blue Player moves piece Y2 from location 6 to 8 by 2 units in clockwise direction.
+
+
+Round 40 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 14
+Piece 3: Base
+Piece 4: 24
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 40
+Piece 2: In Home
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: Base
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 8
+Piece 3: 36
+Piece 4: 34
+
+
+
+!!!! Round 41 Starts !!!!
+Color Red rolled 1 . 
+Color Red Player moves piece R2 from location 14 to 15 by 1 units in clockwise direction.
+Color Green rolled 2 . 
+Color Green Player moves piece G1 from location 40 to 42 by 2 units in clockwise direction.
+Color Yellow rolled 6 . 
+Color Yellow moves piece Y3 to the starting point. 
+Color Yellow now has 1/4 pieces on the board and 1/4 pieces on the base.
+Color Yellow rolled 2 . 
+Color Yellow Player moves piece Y3 from location 27 to 29 by 2 units in clockwise direction.
+Color Blue rolled 2 . 
+Color blue Player moves piece Y2 from location 8 to 10 by 2 units in clockwise direction.
+
+
+Round 41 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 15
+Piece 3: Base
+Piece 4: 24
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 42
+Piece 2: In Home
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 29
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 10
+Piece 3: 36
+Piece 4: 34
+
+
+
+!!!! Round 42 Starts !!!!
+Color Red rolled 3 . 
+Color Red Player moves piece R2 from location 15 to 18 by 3 units in clockwise direction.
+Color Green rolled 1 . 
+Color Green Player moves piece G1 from location 42 to 43 by 1 units in clockwise direction.
+Color Yellow rolled 3 . 
+Color Yellow Player moves piece Y3 from location 29 to 32 by 3 units in clockwise direction.
+Color Blue rolled 3 . 
+Color blue Player moves piece Y2 from location 10 to 13 by 3 units in clockwise direction.
+
+
+Round 42 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: Base
+Piece 2: 18
+Piece 3: Base
+Piece 4: 24
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 43
+Piece 2: In Home
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 32
+Piece 4: Base
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 13
+Piece 3: 36
+Piece 4: 34
+
+
+
+!!!! Round 43 Starts !!!!
+A mystery cell has spwaned in location 9 and will be at this location for the next four rounds 
+Color Red rolled 6 . 
+Color Red moves piece R1 to the starting point. 
+Color Red now has 3/4 pieces on the board and 1/4 pieces on the base.
+Color Red rolled 4 . 
+Color Red Player moves piece R1 from location 1 to 49 by 4 units in counter-clockwise direction.
+Color Green rolled 5 . 
+Color Green Player moves piece G1 from location 43 to 48 by 5 units in clockwise direction.
+Color Yellow rolled 4 . 
+Y3 lands on square 36 , captures color B3 , and returns it to the base.
+Color Blue rolled 1 . 
+Color blue Player moves piece Y2 from location 13 to 14 by 1 units in clockwise direction.
+
+
+Round 43 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 49
+Piece 2: 18
+Piece 3: Base
+Piece 4: 24
+
+Color Green player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 48
+Piece 2: In Home
+Piece 3: Base
+Piece 4: Base
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 36
+Piece 4: Base
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 14
+Piece 3: Base
+Piece 4: 34
+
+
+
+!!!! Round 44 Starts !!!!
+Color Red rolled 3 . 
+Color Red Player moves piece R1 from location 49 to 46 by 3 units in counter-clockwise direction.
+Color Green rolled 6 . 
+Color Green moves piece G3 to the starting point. 
+Color Green now has 2/4 pieces on the board and 1/4 pieces on the base.
+Color Green rolled 5 . 
+Color Green Player moves piece G1 from location 48 to 1 by 5 units in clockwise direction.
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y3 from location 36 to 40 by 4 units in clockwise direction.
+Color Blue rolled 2 . 
+Color blue Player moves piece Y2 from location 14 to 16 by 2 units in clockwise direction.
+
+
+Round 44 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 46
+Piece 2: 18
+Piece 3: Base
+Piece 4: 24
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 1
+Piece 2: In Home
+Piece 3: 14
+Piece 4: Base
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 40
+Piece 4: Base
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 16
+Piece 3: Base
+Piece 4: 34
+
+
+
+!!!! Round 45 Starts !!!!
+Color Red rolled 2 . 
+Color Red Player moves piece R1 from location 46 to 44 by 2 units in counter-clockwise direction.
+Color Green rolled 6 . 
+Color Green moves piece G4 to the starting point. 
+Color Green now has 3/4 pieces on the board and 0/4 pieces on the base.
+Color Green rolled 3 . 
+Color Green Player moves piece G1 from location 1 to 4 by 3 units in clockwise direction.
+Color Yellow rolled 5 . 
+Color Yellow Player moves piece Y3 from location 40 to 45 by 5 units in clockwise direction.
+Color Blue rolled 3 . 
+Color blue Player moves piece Y2 from location 16 to 19 by 3 units in clockwise direction.
+
+
+Round 45 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 44
+Piece 2: 18
+Piece 3: Base
+Piece 4: 24
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 4
+Piece 2: In Home
+Piece 3: 14
+Piece 4: 14
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 45
+Piece 4: Base
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 19
+Piece 3: Base
+Piece 4: 34
+
+
+
+!!!! Round 46 Starts !!!!
+Color Red rolled 1 . 
+R2 lands on square 19 , captures color B2 , and returns it to the base.Color Green rolled 4 . 
+Color Green Player moves piece G1 from location 4 to 8 by 4 units in clockwise direction.
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y3 from location 45 to 46 by 1 units in clockwise direction.
+Color Blue rolled 6 . 
+Color Blue moves piece Y2 to the starting point. 
+Color Yellow now has 3/4 pieces on the board and 1/4 pieces on the base.
+Color Blue rolled 1 . 
+Color blue Player moves piece Y4 from location 34 to 33 by 1 units in counter-clockwise direction.
+
+
+Round 46 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 44
+Piece 2: 19
+Piece 3: Base
+Piece 4: 24
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 8
+Piece 2: In Home
+Piece 3: 14
+Piece 4: 14
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 46
+Piece 4: Base
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: 40
+Piece 3: Base
+Piece 4: 33
+
+
+
+!!!! Round 47 Starts !!!!
+A mystery cell has spwaned in location 19 and will be at this location for the next four rounds 
+Color Red rolled 4 . 
+R1 lands on square 40 , captures color B2 , and returns it to the base.Color Green rolled 2 . 
+Color Green Player moves piece G1 from location 8 to 10 by 2 units in clockwise direction.
+Color Yellow rolled 5 . 
+Color Yellow Player moves piece Y3 from location 46 to 51 by 5 units in clockwise direction.
+Color Blue rolled 5 . 
+Color blue Player moves piece Y4 from location 33 to 28 by 5 units in counter-clockwise direction.
+
+
+Round 47 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 40
+Piece 2: 19
+Piece 3: Base
+Piece 4: 24
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 10
+Piece 2: In Home
+Piece 3: 14
+Piece 4: 14
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 51
+Piece 4: Base
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 38
+Piece 2: Base
+Piece 3: Base
+Piece 4: 28
+
+
+
+!!!! Round 48 Starts !!!!
+Color Red rolled 2 . 
+R1 lands on square 38 , captures color B1 , and returns it to the base.Color Green rolled 3 . 
+Color Green Player moves piece G1 to 1 homestraight by 3. 
+Color Green Player moves piece G3 to 1 homestraight by 3. 
+Color Green Player moves piece G4 from location 14 to 17 by 3 units in clockwise direction.
+Color Yellow rolled 2 . 
+Color Yellow Player moves piece Y3 from location 51 to 1 by 2 units in clockwise direction.
+Color Blue rolled 5 . 
+Color blue Player moves piece Y4 from location 28 to 23 by 5 units in counter-clockwise direction.
+
+
+Round 48 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 38
+Piece 2: 19
+Piece 3: Base
+Piece 4: 24
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 1 (Home Straight)
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: 17
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1
+Piece 4: Base
+
+Color Blue player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: 23
+
+
+
+!!!! Round 49 Starts !!!!
+Color Red rolled 6 . 
+Color Red moves piece R3 to the starting point. 
+Color Red now has 4/4 pieces on the board and 0/4 pieces on the base.
+Color Red rolled 6 . 
+Color Red Player moves piece R1 from location 38 to 32 by 6 units in counter-clockwise direction.
+Color Green rolled 1 . 
+Color Green Player moves piece G4 from location 17 to 18 by 1 units in clockwise direction.
+Color Yellow rolled 5 . 
+Color Yellow Player moves piece Y3 from location 1 to 6 by 5 units in clockwise direction.
+Color Blue rolled 5 . 
+Y4 lands on square 18 , captures color G4 , and returns it to the base.
+
+
+Round 49 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 32
+Piece 2: 19
+Piece 3: 1
+Piece 4: 24
+
+Color Green player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 1 (Home Straight)
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: Base
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 6
+Piece 4: Base
+
+Color Blue player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: 18
+
+
+
+!!!! Round 50 Starts !!!!
+Color Red rolled 5 . 
+Color Red Player moves piece R1 from location 32 to 27 by 5 units in counter-clockwise direction.
+Color Green rolled 6 . 
+Color Green moves piece G4 to the starting point. 
+Color Green now has 1/4 pieces on the board and 0/4 pieces on the base.
+Color Green rolled 4 . 
+Color Green Player moves piece G4 to 2 homestraight by 4. 
+Color Yellow rolled 5 . 
+Color Yellow Player moves piece Y3 from location 6 to 11 by 5 units in clockwise direction.
+Color Blue rolled 4 . 
+Color blue Player moves piece Y4 from location 18 to 14 by 4 units in counter-clockwise direction.
+
+
+Round 50 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 27
+Piece 2: 19
+Piece 3: 1
+Piece 4: 24
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 1 (Home Straight)
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: 2 (Home Straight)
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 11
+Piece 4: Base
+
+Color Blue player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: 14
+
+
+
+!!!! Round 51 Starts !!!!
+A mystery cell has spwaned in location 22 and will be at this location for the next four rounds 
+Color Red rolled 1 . 
+Color Red Player moves piece R1 from location 27 to 26 by 1 units in counter-clockwise direction.
+Color Green rolled 4 . 
+Color Green Player moves piece G4 to home successfully! 
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y3 from location 11 to 15 by 4 units in clockwise direction.
+Color Blue rolled 4 . 
+Color blue Player moves piece Y4 from location 14 to 10 by 4 units in counter-clockwise direction.
+
+
+Round 51 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 26
+Piece 2: 19
+Piece 3: 1
+Piece 4: 24
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 1 (Home Straight)
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 15
+Piece 4: Base
+
+Color Blue player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: 10
+
+
+
+!!!! Round 52 Starts !!!!
+Color Red rolled 2 . 
+Color Red Player moves piece R1 from location 26 to 24 by 2 units in counter-clockwise direction.
+Color Green rolled 1 . 
+Color Yellow rolled 6 . 
+Color Yellow moves piece Y4 to the starting point. 
+Color Yellow now has 2/4 pieces on the board and 0/4 pieces on the base.
+Color Yellow rolled 5 . 
+Color Yellow Player moves piece Y3 from location 15 to 20 by 5 units in clockwise direction.
+Color Blue rolled 1 . 
+Color blue Player moves piece Y4 from location 10 to 9 by 1 units in counter-clockwise direction.
+
+
+Round 52 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 24
+Piece 2: 19
+Piece 3: 1
+Piece 4: 24
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 1 (Home Straight)
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 20
+Piece 4: 27
+
+Color Blue player now has 1/4 pieces on the board and 3/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: Base
+Piece 3: Base
+Piece 4: 9
+
+
+
+!!!! Round 53 Starts !!!!
+Color Red rolled 6 . 
+Color Red Player moves piece R1 from location 24 to 18 by 6 units in counter-clockwise direction.
+Color Red rolled 4 . 
+R4 lands on square 20 , captures color Y3 , and returns it to the base.Color Green rolled 3 . 
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y4 from location 27 to 28 by 1 units in clockwise direction.
+Color Blue rolled 6 . 
+Color Blue moves piece Y1 to the starting point. 
+Color Yellow now has 2/4 pieces on the board and 2/4 pieces on the base.
+Color Blue rolled 5 . 
+Color blue Player moves piece Y4 from location 9 to 4 by 5 units in counter-clockwise direction.
+
+
+Round 53 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 18
+Piece 2: 19
+Piece 3: 1
+Piece 4: 20
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 1 (Home Straight)
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 28
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 40
+Piece 2: Base
+Piece 3: Base
+Piece 4: 4
+
+
+
+!!!! Round 54 Starts !!!!
+Color Red rolled 4 . 
+Color Red Player moves piece R1 from location 18 to 14 by 4 units in counter-clockwise direction.
+Color Green rolled 2 . 
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y4 from location 28 to 32 by 4 units in clockwise direction.
+Color Blue rolled 1 . 
+Color blue Player moves piece Y4 from location 4 to 3 by 1 units in counter-clockwise direction.
+
+
+Round 54 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 14
+Piece 2: 19
+Piece 3: 1
+Piece 4: 20
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: 1 (Home Straight)
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 32
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 40
+Piece 2: Base
+Piece 3: Base
+Piece 4: 3
+
+
+
+!!!! Round 55 Starts !!!!
+A mystery cell has spwaned in location 38 and will be at this location for the next four rounds 
+Color Red rolled 6 . 
+Color Red Player moves piece R1 from location 14 to 8 by 6 units in counter-clockwise direction.
+Color Red rolled 6 . 
+Color Red Player moves piece R1 from location 8 to 2 by 6 units in counter-clockwise direction.
+Color Red rolled 3 . 
+Color Red Player moves piece R1 from location 2 to 51 by 3 units in counter-clockwise direction.
+Color Green rolled 5 . 
+Color Green Player moves piece G1 to home successfully! 
+Color Yellow rolled 3 . 
+Color Yellow Player moves piece Y4 from location 32 to 35 by 3 units in clockwise direction.
+Color Blue rolled 6 . 
+Color Blue moves piece Y2 to the starting point. 
+Color Yellow now has 3/4 pieces on the board and 1/4 pieces on the base.
+Color Blue rolled 5 . 
+Color blue Player moves piece Y4 from location 3 to 50 by 5 units in counter-clockwise direction.
+
+
+Round 55 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 51
+Piece 2: 19
+Piece 3: 1
+Piece 4: 20
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 35
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 40
+Piece 2: 40
+Piece 3: Base
+Piece 4: 50
+
+
+
+!!!! Round 56 Starts !!!!
+Color Red rolled 4 . 
+Color Red Player moves piece R1 to 4 homestraight by 4. 
+Color Red Player moves piece R2 from location 19 to 23 by 4 units in clockwise direction.
+Color Green rolled 1 . 
+Color Yellow rolled 2 . 
+Color Yellow Player moves piece Y4 from location 35 to 37 by 2 units in clockwise direction.
+Color Blue rolled 5 . 
+Color blue Player moves piece Y4 from location 50 to 45 by 5 units in counter-clockwise direction.
+
+
+Round 56 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: 4 (Home Straight)
+Piece 2: 23
+Piece 3: 1
+Piece 4: 20
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 37
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 40
+Piece 2: 40
+Piece 3: Base
+Piece 4: 45
+
+
+
+!!!! Round 57 Starts !!!!
+Color Red rolled 2 . 
+Color Red Player moves piece R1 to home successfully! 
+Color Green rolled 2 . 
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y4 from location 37 to 41 by 4 units in clockwise direction.
+Color Blue rolled 5 . 
+Color blue Player moves piece Y4 from location 45 to 40 by 5 units in counter-clockwise direction.
+
+
+Round 57 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 23
+Piece 3: 1
+Piece 4: 20
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 41
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 40
+Piece 2: 40
+Piece 3: Base
+Piece 4: 40
+
+
+
+!!!! Round 58 Starts !!!!
+Color Red rolled 2 . 
+Color Red Player moves piece R2 from location 23 to 25 by 2 units in clockwise direction.
+Color Green rolled 2 . 
+Color Yellow rolled 5 . 
+Color Yellow Player moves piece Y4 from location 41 to 46 by 5 units in clockwise direction.
+Color Blue rolled 1 . 
+Color blue Player moves piece Y4 from location 40 to 39 by 1 units in counter-clockwise direction.
+
+
+Round 58 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 25
+Piece 3: 1
+Piece 4: 20
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 46
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 40
+Piece 2: 40
+Piece 3: Base
+Piece 4: 39
+
+
+
+!!!! Round 59 Starts !!!!
+A mystery cell has spwaned in location 9 and will be at this location for the next four rounds 
+Color Red rolled 6 . 
+Color Red Player moves piece R2 from location 25 to 31 by 6 units in clockwise direction.
+Color Red rolled 1 . 
+Color Red Player moves piece R2 from location 31 to 32 by 1 units in clockwise direction.
+Color Green rolled 3 . 
+Color Yellow rolled 2 . 
+Color Yellow Player moves piece Y4 from location 46 to 48 by 2 units in clockwise direction.
+Color Blue rolled 3 . 
+Color blue Player moves piece Y4 to 2 homestraight by 3. 
+
+
+Round 59 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 32
+Piece 3: 1
+Piece 4: 20
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: Base
+Piece 4: 48
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 40
+Piece 2: 40
+Piece 3: Base
+Piece 4: 2 (Home Straight)
+
+
+
+!!!! Round 60 Starts !!!!
+Color Red rolled 4 . 
+Color Red Player moves piece R2 from location 32 to 36 by 4 units in clockwise direction.
+Color Green rolled 1 . 
+Color Yellow rolled 6 . 
+Color Yellow moves piece Y3 to the starting point. 
+Color Yellow now has 2/4 pieces on the board and 0/4 pieces on the base.
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y3 from location 27 to 26 by 1 units in anti-clockwise direction.
+Color Blue rolled 5 . 
+Color blue Player moves piece Y1 from location 40 to 45 by 5 units in clockwise direction.
+
+
+Round 60 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 36
+Piece 3: 1
+Piece 4: 20
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 26
+Piece 4: 48
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 45
+Piece 2: 40
+Piece 3: Base
+Piece 4: 2 (Home Straight)
+
+
+
+!!!! Round 61 Starts !!!!
+Color Red rolled 1 . 
+Color Red Player moves piece R2 from location 36 to 37 by 1 units in clockwise direction.
+Color Green rolled 1 . 
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y3 from location 26 to 25 by 1 units in anti-clockwise direction.
+Color Blue rolled 4 . 
+Color blue Player moves piece Y4 to home successfully! 
+
+
+Round 61 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 37
+Piece 3: 1
+Piece 4: 20
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 25
+Piece 4: 48
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 45
+Piece 2: 40
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 62 Starts !!!!
+Color Red rolled 6 . 
+Color Red Player moves piece R2 from location 37 to 43 by 6 units in clockwise direction.
+Color Red rolled 1 . 
+Color Red Player moves piece R2 from location 43 to 44 by 1 units in clockwise direction.
+Color Green rolled 2 . 
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y4 from location 48 to 49 by 1 units in clockwise direction.
+Color Blue rolled 5 . 
+Color blue Player moves piece Y1 from location 45 to 50 by 5 units in clockwise direction.
+
+
+Round 62 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 44
+Piece 3: 1
+Piece 4: 20
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 25
+Piece 4: 49
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 50
+Piece 2: 40
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 63 Starts !!!!
+A mystery cell has spwaned in location 25 and will be at this location for the next four rounds 
+Color Red rolled 4 . 
+Color Red Player moves piece R2 from location 44 to 48 by 4 units in clockwise direction.
+Color Green rolled 6 . 
+Color Green rolled 2 . 
+Color Yellow rolled 1 . 
+Y4 lands on square 50 , captures color B1 , and returns it to the base.
+Color Blue rolled 4 . 
+Color blue Player moves piece Y2 from location 40 to 44 by 4 units in clockwise direction.
+
+
+Round 63 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 48
+Piece 3: 1
+Piece 4: 20
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 25
+Piece 4: 50
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: 44
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 64 Starts !!!!
+Color Red rolled 1 . 
+Color Red Player moves piece R2 from location 48 to 49 by 1 units in clockwise direction.
+Color Green rolled 6 . 
+Color Green rolled 6 . 
+Color Green rolled 1 . 
+Color Yellow rolled 3 . 
+Y4 lands on square 1 , captures color R3 , and returns it to the base.
+Color Blue rolled 5 . 
+Y2 lands on square 49 , captures color R2 , and returns it to the base.
+
+
+Round 64 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: Base
+Piece 3: Base
+Piece 4: 20
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 25
+Piece 4: 1
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: 49
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 65 Starts !!!!
+Color Red rolled 5 . 
+Color Red Player moves piece R4 from location 20 to 15 by 5 units in counter-clockwise direction.
+Color Green rolled 3 . 
+Color Yellow rolled 4 . 
+Color Yellow Player moves piece Y4 from location 1 to 5 by 4 units in clockwise direction.
+Color Blue rolled 1 . 
+Color blue Player moves piece Y2 from location 49 to 50 by 1 units in clockwise direction.
+
+
+Round 65 Details : 
+Color Red player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: Base
+Piece 3: Base
+Piece 4: 15
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 25
+Piece 4: 5
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: 50
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 66 Starts !!!!
+Color Red rolled 6 . 
+Color Red moves piece R2 to the starting point. 
+Color Red now has 2/4 pieces on the board and 1/4 pieces on the base.
+Color Red rolled 4 . 
+R2 lands on square 5 , captures color Y4 , and returns it to the base.Color Green rolled 1 . 
+Color Yellow rolled 3 . 
+Color Yellow Player moves piece Y3 to 3 homestraight by 3. 
+Color Blue rolled 2 . 
+Color blue Player moves piece Y2 from location 50 to 52 by 2 units in clockwise direction.
+
+
+Round 66 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 5
+Piece 3: Base
+Piece 4: 15
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 3 (Home Straight)
+Piece 4: Base
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: 52
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 67 Starts !!!!
+A mystery cell has spwaned in location 46 and will be at this location for the next four rounds 
+Color Red rolled 3 . 
+Color Red Player moves piece R2 from location 5 to 8 by 3 units in clockwise direction.
+Color Green rolled 2 . 
+Color Yellow rolled 3 . 
+Color Yellow Player moves piece Y3 to home successfully! 
+Color Blue rolled 6 . 
+blue piece 1 teleported to approach cell 
+Color Blue rolled 4 . 
+Color blue Player moves piece Y2 from location 52 to 4 by 4 units in clockwise direction.
+
+
+Round 67 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 8
+Piece 3: Base
+Piece 4: 15
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: Base
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: 4
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 68 Starts !!!!
+Color Red rolled 5 . 
+Color Red Player moves piece R2 from location 8 to 13 by 5 units in clockwise direction.
+Color Green rolled 4 . 
+Color Yellow rolled 2 . 
+Color Blue rolled 2 . 
+Color blue Player moves piece Y2 from location 4 to 6 by 2 units in clockwise direction.
+
+
+Round 68 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 13
+Piece 3: Base
+Piece 4: 15
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: Base
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: 6
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 69 Starts !!!!
+Color Red rolled 3 . 
+Color Red Player moves piece R2 from location 13 to 16 by 3 units in clockwise direction.
+Color Green rolled 2 . 
+Color Yellow rolled 6 . 
+Color Yellow moves piece Y4 to the starting point. 
+Color Yellow now has 1/4 pieces on the board and 0/4 pieces on the base.
+Color Yellow rolled 2 . 
+Color Yellow Player moves piece Y4 from location 27 to 25 by 2 units in anti-clockwise direction.
+Color Blue rolled 5 . 
+Color blue Player moves piece Y2 from location 6 to 11 by 5 units in clockwise direction.
+
+
+Round 69 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 16
+Piece 3: Base
+Piece 4: 15
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: 25
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: Base
+Piece 2: 11
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 70 Starts !!!!
+Color Red rolled 4 . 
+R4 lands on square 11 , captures color B2 , and returns it to the base.Color Green rolled 1 . 
+Color Yellow rolled 1 . 
+Color Yellow Player moves piece Y4 to 1 homestraight by 1. 
+Color Blue rolled 6 . 
+Color Blue moves piece Y1 to the starting point. 
+Color Yellow now has 1/4 pieces on the board and 2/4 pieces on the base.
+Color Blue rolled 1 . 
+Color blue Player moves piece Y1 to 1 homestraight by 1. 
+
+
+Round 70 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 16
+Piece 3: Base
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: 1 (Home Straight)
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: 1 (Home Straight)
+Piece 2: Base
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 71 Starts !!!!
+A mystery cell has spwaned in location 22 and will be at this location for the next four rounds 
+Color Red rolled 4 . 
+Color Red Player moves piece R2 from location 16 to 20 by 4 units in clockwise direction.
+Color Green rolled 6 . 
+Color Green rolled 4 . 
+Color Yellow rolled 1 . 
+Color Blue rolled 5 . 
+Color blue Player moves piece Y1 to home successfully! 
+
+
+Round 71 Details : 
+Color Red player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 20
+Piece 3: Base
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: 1 (Home Straight)
+
+Color Blue player now has 2/4 pieces on the board and 2/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: Base
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 72 Starts !!!!
+Color Red rolled 6 . 
+Color Red moves piece R3 to the starting point. 
+Color Red now has 3/4 pieces on the board and 0/4 pieces on the base.
+Color Red rolled 4 . 
+Color Red Player moves piece R2 from location 20 to 24 by 4 units in clockwise direction.
+Color Green rolled 6 . 
+Color Green rolled 6 . 
+Color Yellow rolled 3 . 
+Color Blue rolled 6 . 
+Color Blue moves piece Y2 to the starting point. 
+Color Yellow now has 1/4 pieces on the board and 1/4 pieces on the base.
+Color Blue rolled 1 . 
+Color blue Player moves piece Y2 to 1 homestraight by 1. 
+
+
+Round 72 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 24
+Piece 3: 1
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: 1 (Home Straight)
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: 1 (Home Straight)
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 73 Starts !!!!
+Color Red rolled 3 . 
+Color Red Player moves piece R2 from location 24 to 27 by 3 units in clockwise direction.
+Color Green rolled 2 . 
+Color Yellow rolled 2 . 
+Color Blue rolled 4 . 
+
+
+Round 73 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 27
+Piece 3: 1
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 1 (Home Straight)
+Piece 4: In Home
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: 1 (Home Straight)
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: 1 (Home Straight)
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 74 Starts !!!!
+Color Red rolled 3 . 
+Color Red Player moves piece R2 from location 27 to 30 by 3 units in clockwise direction.
+Color Green rolled 5 . 
+Color Green Player moves piece G3 to home successfully! 
+Color Yellow rolled 1 . 
+Color Blue rolled 5 . 
+Color blue Player moves piece Y2 to home successfully! 
+
+
+Round 74 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 30
+Piece 3: 1
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Green Has Finished The game!!!
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: 1 (Home Straight)
+
+Color Blue player now has 3/4 pieces on the board and 1/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: Base
+Piece 4: In Home
+
+
+
+!!!! Round 75 Starts !!!!
+A mystery cell has spwaned in location 4 and will be at this location for the next four rounds 
+Color Red rolled 2 . 
+Color Red Player moves piece R2 from location 30 to 32 by 2 units in clockwise direction.
+Color Green rolled 3 . 
+Color Yellow rolled 2 . 
+Color Blue rolled 6 . 
+Color Blue moves piece Y3 to the starting point. 
+Color Yellow now has 1/4 pieces on the board and 0/4 pieces on the base.
+Color Blue rolled 3 . 
+Color blue Player moves piece Y3 to 3 homestraight by 3. 
+
+
+Round 75 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 32
+Piece 3: 1
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Green Has Finished The game!!!
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: 1 (Home Straight)
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 3 (Home Straight)
+Piece 4: In Home
+
+
+
+!!!! Round 76 Starts !!!!
+Color Red rolled 1 . 
+Color Red Player moves piece R2 from location 32 to 33 by 1 units in clockwise direction.
+Color Green rolled 6 . 
+Color Green rolled 6 . 
+Color Green rolled 4 . 
+Color Yellow rolled 5 . 
+Color Yellow Player moves piece Y4 to home successfully! 
+Color Blue rolled 2 . 
+
+
+Round 76 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 33
+Piece 3: 1
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Green Has Finished The game!!!
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Yellow Has Finished The game!!!
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 3 (Home Straight)
+Piece 4: In Home
+
+
+
+!!!! Round 77 Starts !!!!
+Color Red rolled 1 . 
+Color Red Player moves piece R2 from location 33 to 34 by 1 units in clockwise direction.
+Color Green rolled 5 . 
+Color Yellow rolled 5 . 
+Color Blue rolled 6 . 
+Color Blue rolled 2 . 
+
+
+Round 77 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 34
+Piece 3: 1
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Green Has Finished The game!!!
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Yellow Has Finished The game!!!
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 3 (Home Straight)
+Piece 4: In Home
+
+
+
+!!!! Round 78 Starts !!!!
+Color Red rolled 4 . 
+Color Red Player moves piece R2 from location 34 to 38 by 4 units in clockwise direction.
+Color Green rolled 2 . 
+Color Yellow rolled 1 . 
+Color Blue rolled 4 . 
+
+
+Round 78 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 38
+Piece 3: 1
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Green Has Finished The game!!!
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Yellow Has Finished The game!!!
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 3 (Home Straight)
+Piece 4: In Home
+
+
+
+!!!! Round 79 Starts !!!!
+A mystery cell has spwaned in location 21 and will be at this location for the next four rounds 
+Color Red rolled 2 . 
+Color Red Player moves piece R2 from location 38 to 38 by 2 units in clockwise direction.
+Color Green rolled 6 . 
+Color Green rolled 6 . 
+Color Green rolled 3 . 
+Color Yellow rolled 6 . 
+Color Yellow rolled 5 . 
+Color Blue rolled 1 . 
+
+
+Round 79 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 38
+Piece 3: 1
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Green Has Finished The game!!!
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Yellow Has Finished The game!!!
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 3 (Home Straight)
+Piece 4: In Home
+
+
+
+!!!! Round 80 Starts !!!!
+Color Red rolled 2 . 
+Color Red Player moves piece R2 from location 38 to 42 by 2 units in clockwise direction.
+Color Green rolled 6 . 
+Color Green rolled 1 . 
+Color Yellow rolled 4 . 
+Color Blue rolled 1 . 
+
+
+Round 80 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 42
+Piece 3: 1
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Green Has Finished The game!!!
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Yellow Has Finished The game!!!
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 3 (Home Straight)
+Piece 4: In Home
+
+
+
+!!!! Round 81 Starts !!!!
+Color Red rolled 6 . 
+Color Red Player moves piece R2 from location 42 to 48 by 6 units in clockwise direction.
+Color Red rolled 3 . 
+Color Red Player moves piece R2 from location 48 to 51 by 3 units in clockwise direction.
+Color Green rolled 1 . 
+Color Yellow rolled 4 . 
+Color Blue rolled 6 . 
+Color Blue rolled 5 . 
+
+
+Round 81 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 51
+Piece 3: 1
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Green Has Finished The game!!!
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Yellow Has Finished The game!!!
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 3 (Home Straight)
+Piece 4: In Home
+
+
+
+!!!! Round 82 Starts !!!!
+Color Red rolled 5 . 
+Color Red Player moves piece R2 to 5 homestraight by 5. 
+Color Red Player moves piece R3 from location 1 to 6 by 5 units in clockwise direction.
+Color Green rolled 4 . 
+Color Yellow rolled 6 . 
+Color Yellow rolled 5 . 
+Color Blue rolled 2 . 
+
+
+Round 82 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 5 (Home Straight)
+Piece 3: 6
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Green Has Finished The game!!!
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Yellow Has Finished The game!!!
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 3 (Home Straight)
+Piece 4: In Home
+
+
+
+!!!! Round 83 Starts !!!!
+A mystery cell has spwaned in location 33 and will be at this location for the next four rounds 
+Color Red rolled 2 . 
+Color Red Player moves piece R3 from location 6 to 8 by 2 units in clockwise direction.
+Color Green rolled 2 . 
+Color Yellow rolled 6 . 
+Color Yellow rolled 1 . 
+Color Blue rolled 6 . 
+Color Blue rolled 2 . 
+
+
+Round 83 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 5 (Home Straight)
+Piece 3: 8
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Green Has Finished The game!!!
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Yellow Has Finished The game!!!
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 3 (Home Straight)
+Piece 4: In Home
+
+
+
+!!!! Round 84 Starts !!!!
+Color Red rolled 5 . 
+Color Red Player moves piece R3 from location 8 to 13 by 5 units in clockwise direction.
+Color Green rolled 1 . 
+Color Yellow rolled 1 . 
+Color Blue rolled 5 . 
+
+
+Round 84 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: 5 (Home Straight)
+Piece 3: 13
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Green Has Finished The game!!!
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Yellow Has Finished The game!!!
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 3 (Home Straight)
+Piece 4: In Home
+
+
+
+!!!! Round 85 Starts !!!!
+Color Red rolled 1 . 
+Color Red Player moves piece R2 to home successfully! 
+Color Green rolled 4 . 
+Color Yellow rolled 3 . 
+Color Blue rolled 2 . 
+
+
+Round 85 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 13
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Green Has Finished The game!!!
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Yellow Has Finished The game!!!
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 3 (Home Straight)
+Piece 4: In Home
+
+
+
+!!!! Round 86 Starts !!!!
+Color Red rolled 6 . 
+Color Red Player moves piece R3 from location 13 to 19 by 6 units in clockwise direction.
+Color Red rolled 2 . 
+Color Red Player moves piece R3 from location 19 to 21 by 2 units in clockwise direction.
+Color Green rolled 6 . 
+Color Green rolled 3 . 
+Color Yellow rolled 6 . 
+Color Yellow rolled 5 . 
+Color Blue rolled 3 . 
+Color blue Player moves piece Y3 to home successfully! 
+
+
+Round 86 Details : 
+Color Red player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Red:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: 21
+Piece 4: 11
+
+Color Green player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Green:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Green Has Finished The game!!!
+
+Color Yellow player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Yellow:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Yellow Has Finished The game!!!
+
+Color Blue player now has 4/4 pieces on the board and 0/4 pieces on the base.
+===================================================================================
+Location of pieces Blue:
+===================================================================================
+Piece 1: In Home
+Piece 2: In Home
+Piece 3: In Home
+Piece 4: In Home
+Blue Has Finished The game!!!
+
+
+
+===========================================================================
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Results of LUDO CS !!!!!!!!!!!!!!!!!!!!!!!
+
+ Red Player : Place 4
+ Blue Player : Place 3
+ Yellow Player : Place 2
+ Green Player : Place 1

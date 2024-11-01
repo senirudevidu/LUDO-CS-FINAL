@@ -203,8 +203,7 @@ int firstPlayer()
     return maxIndex;
 }
 
-int isWon(Player player)  // check pieces are in home
-{
+int isWon(Player player){  // check pieces are in home
     for (int i = 0; i < 4; i++)
     {
         if (player.pieces[i].isInPlay == 3)
@@ -256,6 +255,7 @@ int teleport(Player *player, int pieceNumber, const char *color)
         5. X of the piece colour 
         6. Approach of the piece colour
     */
+    /////////////////////////////////////////////////////////////////
 
     if (speacialCell == 1)          // To Bhawana
     {
@@ -278,6 +278,9 @@ int teleport(Player *player, int pieceNumber, const char *color)
         }
         printf("%s piece %d teleported to Bhawana \n", color, pieceNumber);
     }
+
+    ///////////////////////////////////////////////////////////////////
+
     else if (speacialCell == 2)     // To Kotuwa
     {
         player->pieces[pieceNumber].current_square = Kotuwa;
@@ -286,10 +289,14 @@ int teleport(Player *player, int pieceNumber, const char *color)
         player->pieces[pieceNumber].brief = 0;
         printf("Color %s piece %d attends briefing and cannot move for four Rounds. \n", color, pieceNumber);
     }
+
+    //////////////////////////////////////////////////////////////////
+
     else if (speacialCell == 3)     // To Pita-Kotuwa
     {
         player->pieces[pieceNumber].current_square = Pitakotuwa;
         printf("%s piece %d teleported to PitaKotuwa \n", color, pieceNumber);
+
         if (player->pieces[pieceNumber].direction == 0)
         {
             player->pieces[pieceNumber].direction == 1;
@@ -301,8 +308,11 @@ int teleport(Player *player, int pieceNumber, const char *color)
             printf("The color %s piece %d is moving in a counterclockwise direction.Teleporting from Pita-Kotuwa", color, pieceNumber + 1);
         }
     }
+
+    ////////////////////////////////////////////////////////////////////
+
     else if (speacialCell == 4)     // To Base
-    { // returns to the start square.
+    {   // returns to the start square.
         if (player->colour == 'r')      // To red base
         {
             player->pieces[pieceNumber].current_square = red_start;
@@ -331,6 +341,9 @@ int teleport(Player *player, int pieceNumber, const char *color)
             printf("%s piece %d teleported to X \n", color, pieceNumber + 1);
         }
     }
+
+    /////////////////////////////////////////////////////////////////////
+
     else if (speacialCell == 5)     // To X
     { // return to the base square
         if (player->colour == 'r')
@@ -358,7 +371,10 @@ int teleport(Player *player, int pieceNumber, const char *color)
             printf("%s piece %d teleported to Base \n", color, pieceNumber + 1);
         }
     }
-    else if (speacialCell == 6)     // To Appoach
+
+    ////////////////////////////////////////////////////////////////////////
+
+    else if (speacialCell == 6)     // To Approach
     {
 
         player->pieces[pieceNumber].current_square->square_number = player->approachCell;
@@ -371,64 +387,71 @@ int teleport(Player *player, int pieceNumber, const char *color)
                                       PLAYER CHARACTERISTICS
     ---------------------------------------------------------------------------------------------*/
 
-// eventhough red piece moved to the homestraight still we have to update isSick and isSickNumber maybe
+// even though red piece moved to the home-straight still we have to update isSick and isSickNumber maybe
 void redMoves(int diceValue)
 {
 
     printf("Color Red rolled %d . \n", diceValue);
 
-    //  first look for a red piece can capture a piece
     int captured = 0;
-    for (int i = 0; i < 4; i++)
 
-    {
+    /*---------------check whether are there any piece to capture-------------------*/
 
-        if (redPlayer.pieces[i].isInPlay == 1)
+    for (int i = 0; i < 4; i++){
 
-        {
+        if (redPlayer.pieces[i].isInPlay == 1){
 
+            // If sick
             if (redPlayer.pieces[i].isSick == 1 && redPlayer.pieces[i].isSickNumber < 4)
             {
                 diceValue = diceValue / 2;
             }
+            // If Energized
             if (redPlayer.pieces[i].isSick == 2 && redPlayer.pieces[i].isSickNumber < 4)
             {
                 diceValue = diceValue * 2;
             }
 
+            ///////////////////////////////////////////////////////////////////////
+            // movement logic
             Square *temp = redPlayer.pieces[i].current_square;
             int went_homestraight = 0;
-            for (int j = 0; j < diceValue; j++)
-            {
-
+            for (int j = 0; j < diceValue; j++){
+                // If piece is captured and placing square is approach cell he cant capture so we neglect that piece
                 if (redPlayer.pieces[i].isCapture && temp->square_number == redPlayer.approachCell)
                 {
                     went_homestraight = 1;
                     break;
                 }
-                if (redPlayer.pieces[i].direction == 0)
-                {
+
+
+                // Move cells one by one per iteration according to direction
+                if (redPlayer.pieces[i].direction == 0){
                     temp = temp->next;
-                }
-                else
-                {
+                }else{
                     temp = temp->prev;
                 }
             }
 
-            if (went_homestraight)
-            {
+            ///////////////////////////////////////////////////////////////////////
+
+            if (went_homestraight){
                 continue;
             }
 
+            /////////////////////////////////////////////////////////////////////
+
             for (int j = 0; j < 4; j++)
             {
+                // CHeck one of the 4 piece is situated in the cell that temp is placed.
                 if (greenPlayer.pieces[j].isInPlay == 1 && greenPlayer.pieces[j].current_square == temp)
                 {
                     greenPlayer.pieces[j].isInPlay = BASE;
                     greenPlayer.pieces[j].current_square = green_start;
                     captured = 1;
                     printf("R%d lands on square %d , captures color G%d , and returns it to the base.", i + 1, temp->square_number, j + 1);
+
+
                     if (redPlayer.pieces[i].isSick > 0)
                     {
                         redPlayer.pieces[i].isSickNumber++;
@@ -482,6 +505,8 @@ void redMoves(int diceValue)
                 }
             }
 
+            //////////////////////////////////////////////////////////////////////
+
             if (captured)
             {
                 redPlayer.pieces[i].isCapture = 1;
@@ -491,19 +516,22 @@ void redMoves(int diceValue)
         }
     }
 
+    /*---------------There isn't any piece to capture so         -------------------*/
+
     if (captured == 0)
     {
-
         int empty_base = 1;
-        for (int i = 0; i < 4; i++)
-        {
 
+        // -----------------if base is not empty-------------------
+        for (int i = 0; i < 4; i++){
             if (diceValue == 6 && redPlayer.pieces[i].isInPlay == -1)
             {
                 redPlayer.pieces[i].isInPlay = 1;
                 int directionValue = direction(); // Determining the direction of the piece
                 redPlayer.pieces[i].direction = directionValue;
                 printf("Color Red moves piece R%d to the starting point. \n", i + 1);
+
+                // Counter to determine how many pieces are on the board and base
                 int standard = 0;
                 int base_count = 0;
                 for (int j = 0; j < 4; j++)
@@ -518,11 +546,13 @@ void redMoves(int diceValue)
                     }
                 }
                 printf("Color Red now has %d/4 pieces on the board and %d/4 pieces on the base.\n", standard, base_count);
+
                 empty_base = 0;
                 break;
             }
         }
 
+        // -----------------if base is empty-------------------
         if (empty_base)
         {
 
@@ -537,14 +567,13 @@ void redMoves(int diceValue)
                     break;
                 }
 
-                // check for blocks
+
                 if (redPlayer.pieces[i].isInPlay == 1)
                 {
                     Square *temp = redPlayer.pieces[i].current_square;
                     int went_homestraight = 0;
                     for (int j = 0; j < diceValue; j++)
                     {
-
                         if (redPlayer.pieces[i].isCapture && temp->square_number == redPlayer.approachCell)
                         {
                             went_homestraight = 1;
@@ -557,11 +586,12 @@ void redMoves(int diceValue)
                             else
                             {
                                 redPlayer.pieces[i].isInPlay = 2;
-                                printf("Color Red Player moves piece R%d to %d homestraight by %d. \n", i + 1, redPlayer.pieces[i].homeStraight, diceValue);
+                                printf("Color Red Player moves piece R%d to %d home straight by %d. \n", i + 1, redPlayer.pieces[i].homeStraight, diceValue);
                             }
                             break;
                         }
 
+                        // move piece according to direction
                         if (redPlayer.pieces[i].direction == 0)
                         {
                             temp = temp->next;
@@ -1732,14 +1762,14 @@ void runThis()
     while (haswon < 4)
     {
         printf("\n!!!! Round %d Starts !!!!\n", i);
-        setMysteryCell(i - 1);                          // Generating mystery cells
+        setMysteryCell(i - 1);                       // Generating mystery cells
         gameRound(currentPlayer);                       // Runs one round
         printf("\n");
-        roundSummary(i);                                // Print summery of one round
-        i++;                                            // Incriment number of rounds
+        roundSummary(i);                                         // Print summery of one round
+        i++;                                                     // Increment number of rounds
         printf("\n");
     }
-    result();                                           // Print final result
+    result();                                                    // Print final result
 }
 
 
